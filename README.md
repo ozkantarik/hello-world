@@ -6,3 +6,6 @@ ekledim
 ok
 
 pull request sonrası commit
+
+merge sonrası
+buraya
