@@ -22,3 +22,6 @@ local: bash
 bash edit
 remote
 ALL MERGED HERE OK
+--------****----------
+Restart aksam
+
