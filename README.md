@@ -17,3 +17,5 @@ end
 başla pull sonrası
 -
 2
+-------
+local: bash
