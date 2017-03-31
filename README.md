@@ -11,3 +11,5 @@ merge sonrası
 buraya
 ----------------------------
 yeni commit
+-------
+end
