@@ -4,3 +4,5 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxx
 yyyyyyyyyyyyyyyy
 ekledim
 ok
+
+pull request sonrası commit
