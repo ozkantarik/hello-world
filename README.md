@@ -9,3 +9,5 @@ pull request sonrası commit
 
 merge sonrası
 buraya
+----------------------------
+yeni commit
