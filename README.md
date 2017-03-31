@@ -13,3 +13,7 @@ buraya
 yeni commit
 -------
 end
+---
+başla pull sonrası
+-
+2
