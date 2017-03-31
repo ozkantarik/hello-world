@@ -17,3 +17,4 @@ end
 başla pull sonrası
 -
 2
+remote edit
