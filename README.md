@@ -24,4 +24,5 @@ remote
 ALL MERGED HERE OK
 --------****----------
 Restart aksam
+ok remote
 
