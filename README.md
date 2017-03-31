@@ -19,3 +19,4 @@ başla pull sonrası
 2
 -------
 local: bash
+bash edit
